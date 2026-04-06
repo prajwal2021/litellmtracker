@@ -2,3 +2,6 @@
 Dockerfile
 docker-compose.yml
 DEPLOY-AZURE.md
+__pycache__/
+*.pyc
+*.log
